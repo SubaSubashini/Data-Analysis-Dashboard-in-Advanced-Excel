@@ -36,6 +36,11 @@ The dashboard shows total sales of $1,00,314 with a 5% profit margin.
 Product PD-3457 emerged as the top-selling product with 5869 units.
 
 Credit cards contribute 56% of total sales, showing strong customer preference.
+<a href="https://github.com/SubaSubashini/Data-Analysis-Dashboard-in-Advanced-Excel/blob/main/DASHBOARD%20SCREENSHOT%20IN%20EXCEL.png"> Dashboard Screenshot</a>
+
+## CONCLUSION:
+  
+This Sales Dashboard provides a clear view of business performance by integrating key KPIs such as total sales, profit margin, top-selling products, monthly sales distribution, and payment method contribution. The insights reveal that although overall sales are strong, the profit margin is relatively low at 5%, highlighting a need to optimize cost structures or focus on high-margin products. The dominance of credit card transactions indicates customer preference, while underused payment modes suggest potential areas for growth. Overall, this dashboard enables data-driven decision-making by helping management track sales performance, identify top products, and explore strategies to improve profitability.
 
 
 
