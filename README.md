@@ -1,8 +1,12 @@
 # Data-Analysis-Dashboard-in-Advanced-Excel
 This interactive Sales Dashboard tracks key metrics such as total sales, profit, profit percentage, top products, monthly sales trends, and payment method distribution, enabling quick and data-driven business decisions.
+
 ##DATASET USED
 <a href="https://github.com/SubaSubashini/Data-Analysis-Dashboard-in-Advanced-Excel/blob/main/FIRST%20PROJECT%20%20EXCEL%20DASHBOARD.xlsx">Data set</a>
+
+
 ##KPI Questions from this Dashboard:
+
 1. What are the key KPIs shown in your sales dashboard?
 (Example answer: Total Sales, Total Profit, Profit %, Top Product, Monthly/Category-wise Sales, and Payment Method Share.)
 
@@ -23,6 +27,15 @@ This interactive Sales Dashboard tracks key metrics such as total sales, profit,
 
 
 Dashboard Interaction<a href="https://github.com/SubaSubashini/Data-Analysis-Dashboard-in-Advanced-Excel/blob/main/FIRST%20PROJECT%20%20EXCEL%20DASHBOARD.xlsx">view the dashboard</a>
+
+
+##Project Insights:
+
+The dashboard shows total sales of $1,00,314 with a 5% profit margin.
+
+Product PD-3457 emerged as the top-selling product with 5869 units.
+
+Credit cards contribute 56% of total sales, showing strong customer preference.
 
 
 
