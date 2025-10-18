@@ -30,6 +30,10 @@ This interactive Sales Dashboard tracks key metrics such as total sales, profit,
 Dashboard Interaction<a href="https://github.com/SubaSubashini/Data-Analysis-Dashboard-in-Advanced-Excel/blob/main/FIRST%20PROJECT%20%20EXCEL%20DASHBOARD.xlsx">view the dashboard</a>
 
 
+ -- <h1>ONE OF THE ADVANTAGE</H1>
+      Which year ? which product ? what rank ? this is one the RANKING process.
+
+
 ##PROJECT INSIGHTS:
 
 The dashboard shows total sales of $1,00,314 with a 5% profit margin.
